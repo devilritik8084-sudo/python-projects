@@ -178,3 +178,92 @@ python calculator.py
 **Ritik Kumar**
 
 GitHub: https://github.com/devilritik8084-sudo
+
+# 🌦 Weather Forecast GUI Application
+
+A modern Weather Forecast Desktop Application built with **Python**, **Tkinter**, and the **OpenWeather API**. The application provides real-time weather information through a clean and user-friendly graphical interface.
+
+## 📌 Features
+
+- 🌍 Search weather by city name
+- 🌡 Current Temperature
+- 🤗 Feels Like Temperature
+- 💧 Humidity
+- 🌬 Wind Speed
+- 👁 Visibility
+- 📈 Atmospheric Pressure
+- 🌅 Sunrise & Sunset Time
+- ☁ Weather Condition
+- 🖥 Modern Tkinter GUI
+- ⚠ Error handling for invalid city names
+
+## 🛠 Technologies Used
+
+- Python
+- Tkinter
+- Requests
+- OpenWeather API
+
+## 📂 Project Structure
+
+```
+Weather-GUI/
+├── weather_gui.py
+├── config.py        (Optional)
+└── README.md
+```
+
+## ▶️ Installation
+
+Install the required library:
+
+```bash
+pip install requests
+```
+
+## ▶️ Run the Project
+
+```bash
+python weather_gui.py
+```
+
+## 📷 Application Preview
+
+> Add a screenshot of your Weather GUI here.
+
+Example:
+
+```
+assets/weather_gui.png
+```
+
+## 📚 Concepts Used
+
+- API Integration
+- JSON Data Handling
+- Tkinter GUI Development
+- Event-driven Programming
+- Error Handling
+
+## 🎯 Learning Outcomes
+
+- GUI Development using Tkinter
+- Working with REST APIs
+- Python Programming
+- User Interface Design
+- API Data Parsing
+
+## 🚀 Future Improvements
+
+- 🌙 Dark Mode
+- 📅 5-Day Weather Forecast
+- 📍 Auto Detect Location
+- 📊 Temperature Graph
+- 🕒 Search History
+- 🌐 Multiple Language Support
+
+## 👨‍💻 Author
+
+**Ritik Kumar**
+
+GitHub: https://github.com/devilritik8084-sudo

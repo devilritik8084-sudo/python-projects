@@ -114,3 +114,67 @@ python ai_disease_prediction.py
 **Ritik Kumar**
 
 GitHub: https://github.com/devilritik8084-sudo
+
+# 🧮 Calculator Application
+
+A simple Calculator Application built with Python that performs basic arithmetic operations through an easy-to-use interface.
+
+## 📌 Features
+
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- 🔢 User-friendly input
+- ⚡ Fast calculations
+
+## 🛠 Technologies Used
+
+- Python
+
+## 📂 Project Structure
+
+```
+Calculator/
+├── calculator.py
+└── README.md
+```
+
+## ▶️ How to Run
+
+1. Make sure Python is installed.
+
+2. Run the project
+
+```bash
+python calculator.py
+```
+
+## 📚 Concepts Used
+
+- Variables
+- User Input
+- Arithmetic Operators
+- Conditional Statements
+- Functions
+
+## 🎯 Learning Outcomes
+
+- Python Fundamentals
+- Mathematical Operations
+- Problem Solving
+- Programming Logic
+
+## 🚀 Future Improvements
+
+- GUI using Tkinter
+- Scientific Calculator
+- Calculation History
+- Dark Mode
+- Keyboard Shortcuts
+
+## 👨‍💻 Author
+
+**Ritik Kumar**
+
+GitHub: https://github.com/devilritik8084-sudo

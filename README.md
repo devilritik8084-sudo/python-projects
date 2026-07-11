@@ -50,3 +50,67 @@ A Python-based Student Management System developed to manage student records eff
 
 ```bash
 python student_management_v2.py
+
+# 🩺 AI Disease Prediction System
+
+A Python-based AI application that predicts possible diseases based on user symptoms using Machine Learning.
+
+## 📌 Features
+
+- 🩺 Disease prediction from user symptoms
+- 🤖 Machine Learning based prediction
+- 📊 Dataset processing using Pandas
+- 💾 Prediction history saving
+- 🖥️ Simple and user-friendly interface
+
+## 🛠 Technologies Used
+
+- Python
+- Pandas
+- Scikit-learn
+- Decision Tree Classifier
+- CSV Dataset
+
+## 📂 Project Structure
+
+```
+AI-Disease-Prediction/
+├── ai_disease_prediction.py
+└── README.md
+```
+
+## ▶️ How to Run
+
+1. Install required libraries
+
+```bash
+pip install pandas scikit-learn
+```
+
+2. Run the project
+
+```bash
+python ai_disease_prediction.py
+```
+
+## 🎯 Learning Outcomes
+
+- Machine Learning Basics
+- Decision Tree Classification
+- Data Preprocessing
+- Python Programming
+- Healthcare AI
+
+## 🚀 Future Improvements
+
+- GUI using Tkinter
+- Better Disease Dataset
+- Accuracy Improvement
+- Medicine Suggestions
+- PDF Report Generation
+
+## 👨‍💻 Author
+
+**Ritik Kumar**
+
+GitHub: https://github.com/devilritik8084-sudo

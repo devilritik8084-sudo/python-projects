@@ -1,3 +1,27 @@
+# Hi 👋, I'm Ritik Kumar
+
+## 🚀 Aspiring AI Software Engineer
+
+I'm a Class XII Science (PCM) student from Bihar, India, passionate about Artificial Intelligence, Machine Learning, Software Engineering, and Cybersecurity.
+
+### 💻 Skills
+- Python
+- Machine Learning
+- Tkinter GUI
+- OpenWeather API
+- Git & GitHub
+
+### 📂 Featured Projects
+- 🩺 AI Disease Prediction System
+- 🌦 Weather Forecast GUI
+- 📚 Student Management System
+- 🧮 Calculator Application
+
+### 🎯 Goal
+To pursue AI Software Engineering in South Korea through the GKS Scholarship and build impactful AI solutions.
+
+### 📫 Connect with Me
+- GitHub: https://github.com/devilritik8084-sudo
 # Python Projects Portfolio
 
 Welcome to my Python Projects Portfolio.

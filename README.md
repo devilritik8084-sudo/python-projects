@@ -341,3 +341,103 @@ python password_manager.py
 
 GitHub:
 https://github.com/devilritik8084-sudo
+
+# 🔐 Password Manager V2
+
+A professional Password Manager built with Python that securely stores, manages, and generates strong passwords.
+
+## ✨ Features
+
+- 🔑 Master Password Login
+- ➕ Add Password
+- 👀 View Saved Passwords
+- 🔍 Search Account
+- ✏️ Edit Password
+- ❌ Delete Password (with confirmation)
+- 📋 Show All Saved Accounts
+- 🔐 Strong Password Generator
+- 💪 Password Strength Checker
+- 💾 Auto Save & Auto Load
+- 🔒 Base64 Password Encoding
+- ⚠️ Error Handling
+- 🖥️ Professional Console Interface
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3
+- File Handling
+- Base64 Encoding
+- Random Module
+- String Module
+- OS Module
+
+---
+
+## 📂 Project Structure
+
+```
+Password-Manager/
+│── password_manager.py
+│── passwords.txt
+└── README.md
+```
+
+---
+
+## ▶️ How to Run
+
+1. Install Python 3.
+2. Download the project.
+3. Open the project folder.
+4. Run:
+
+```bash
+python password_manager.py
+```
+
+5. Enter the Master Password.
+6. Start managing your passwords securely.
+
+---
+
+## 📸 Features Overview
+
+- Secure Login using Master Password
+- Password Generator
+- Password Strength Checker
+- Search and Edit Passwords
+- Delete Password with Confirmation
+- Automatic Password Saving
+
+---
+
+## 🚀 Future Improvements
+
+- Tkinter GUI
+- SQLite Database
+- Password Encryption (AES)
+- Copy Password Button
+- Show / Hide Password
+- Change Master Password
+- Export / Import Passwords
+- Dark Mode
+
+---
+
+## 👨‍💻 Author
+
+**Ritik Kumar**
+
+GitHub:
+https://github.com/devilritik8084-sudo
+
+Repository:
+https://github.com/devilritik8084-sudo/python-projects
+
+---
+
+## ⭐ If you like this project
+
+Please give this repository a ⭐ on GitHub.

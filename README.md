@@ -291,3 +291,53 @@ assets/weather_gui.png
 **Ritik Kumar**
 
 GitHub: https://github.com/devilritik8084-sudo
+
+# 🔐 Password Manager
+
+A secure Password Manager built using Python that allows users to store, view, delete, and generate strong passwords.
+
+## ✨ Features
+
+- ➕ Add Password
+- 👀 View Password
+- 📋 Show All Accounts
+- ❌ Delete Password
+- 🔑 Strong Password Generator
+- 💾 Automatic Save & Load
+
+## 🛠 Technologies Used
+
+- Python
+- File Handling
+- Random
+- String
+
+## 📂 Project Structure
+
+```
+Password-Manager/
+├── password_manager.py
+├── passwords.txt
+└── README.md
+```
+
+## ▶️ Run
+
+```bash
+python password_manager.py
+```
+
+## 🚀 Future Improvements
+
+- Password Encryption
+- Tkinter GUI
+- Copy Password Button
+- Master Password Login
+- Search Feature
+
+## 👨‍💻 Author
+
+**Ritik Kumar**
+
+GitHub:
+https://github.com/devilritik8084-sudo

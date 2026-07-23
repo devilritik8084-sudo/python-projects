@@ -907,3 +907,191 @@ https://github.com/devilritik8084-sudo
 ⭐ If you like this project, don't forget to star the repository!
 
 Thank you for visiting this project. ❤️
+
+# 🤖 AI Chatbot V3 Pro
+
+A professional command-line AI Chatbot developed using Python. This version improves upon V3 with smarter command recognition, cleaner code structure, and enhanced productivity features such as Notes Manager and Task Manager.
+
+---
+
+# ✨ Features
+
+- 👋 Smart Greeting System
+- 💬 Basic Conversation
+- 🐍 Python Information
+- 🤖 Artificial Intelligence Information
+- 👨‍💻 Developer Information
+- 🕒 Current Time
+- 📅 Current Date
+- 😂 Random Jokes
+- 📚 Random Facts
+- 🧮 Calculator
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+- 🔐 Custom Password Generator
+- 📝 Notes Manager
+  - Add Notes
+  - View Notes
+- ✅ Task Manager
+  - Add Tasks
+  - View Tasks
+- 📖 Help Menu
+- 🚪 Exit Command
+
+---
+
+# 🛠 Technologies Used
+
+- Python 3
+- datetime
+- random
+- string
+- os
+- time
+
+---
+
+# 💻 Available Commands
+
+```text
+hello
+hi
+hey
+kya ho
+kaise ho
+how are you
+python
+python info
+what is python
+ai
+ai info
+what is ai
+your name
+who are you
+who made you
+developer
+time
+date
+joke
+fact
+calculator
+password
+note add
+note view
+task add
+task view
+help
+exit
+```
+
+---
+
+# ▶️ How to Run
+
+1. Install Python 3 or Pydroid 3.
+2. Save the file as:
+
+```text
+ai_chatbot_v3_pro.py
+```
+
+3. Run:
+
+```bash
+python ai_chatbot_v3_pro.py
+```
+
+---
+
+# 📂 Project Structure
+
+```text
+AI-Chatbot-V3-Pro/
+│
+├── ai_chatbot_v3_pro.py
+├── notes.txt
+├── todo.txt
+└── README.md
+```
+
+---
+
+# 📸 Sample Output
+
+```text
+Enter your name: Ritik
+
+Ritik: hello
+Bot: Hello! 😊
+
+Ritik: python info
+Bot: Python is a beginner-friendly programming language.
+
+Ritik: password
+Length: 12
+Bot: X8@kP2#mQ1Ls
+
+Ritik: note add
+Note: Complete Python Project
+Saved.
+```
+
+---
+
+# 📚 Learning Concepts
+
+- Python Programming
+- Functions
+- Loops
+- Conditional Statements
+- File Handling
+- String Manipulation
+- Random Module
+- Datetime Module
+- Command-Line Interface (CLI)
+
+---
+
+# 🚀 Version
+
+**Version:** 3.0 Pro (Starter Edition)
+
+---
+
+# 🔄 Planned Features
+
+- 💾 Chat History
+- 🎲 Dice Roll
+- 🪙 Coin Toss
+- 🎯 Guess Number Game
+- ⏱ Stopwatch
+- ⏰ Countdown Timer
+- 📊 Quiz Game
+- 🗑 Delete Notes & Tasks
+- 📈 Command Statistics
+- 🌦 Weather API
+- 🌐 Wikipedia Search
+- 🤖 Smarter AI Responses
+
+---
+
+# 👨‍💻 Developer
+
+**Ritik Kumar**
+
+GitHub:
+https://github.com/devilritik8084-sudo
+
+---
+
+## 📄 License
+
+This project is released under the MIT License.
+
+---
+
+⭐ If you found this project helpful, consider giving it a star on GitHub.
+
+Thank you for visiting this repository! ❤️

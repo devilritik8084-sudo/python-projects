@@ -734,3 +734,176 @@ This project demonstrates:
 # ⭐ If you like this project, don't forget to star the repository!
 
 Thank you for visiting this project. ❤️
+
+# 🤖 AI Chatbot V3
+
+A feature-rich command-line AI Chatbot built with Python. This version extends V2 by adding Notes Manager, To-Do List, Number Guessing Game, Stopwatch, Password Generator, and other useful utilities.
+
+---
+
+# ✨ Features
+
+- 👋 Greeting System
+- 🕒 Current Time
+- 📅 Current Date
+- 😂 Random Jokes
+- 📚 Random Facts
+- 🐍 Python Information
+- 🤖 Artificial Intelligence Information
+- 🧮 Calculator
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+- 🔐 Password Generator
+- 🎲 Dice Roll
+- 🪙 Coin Flip
+- 📝 Notes Manager
+  - Add Notes
+  - View Notes
+- ✅ To-Do List
+  - Add Tasks
+  - View Tasks
+- 🎯 Number Guessing Game
+- ⏱ Stopwatch
+- 📖 Help Menu
+- 🚪 Exit Command
+
+---
+
+# 🛠 Technologies Used
+
+- Python 3
+- datetime
+- random
+- string
+- time
+- os
+
+---
+
+# 💻 Available Commands
+
+```text
+hello
+hi
+time
+date
+joke
+fact
+python
+ai
+calculator
+password
+dice
+coin
+note add
+note view
+task add
+task view
+guess
+stopwatch
+help
+exit
+```
+
+---
+
+# ▶️ How to Run
+
+1. Install Python 3 or Pydroid 3.
+2. Save the program as:
+
+```text
+ai_chatbot_v3.py
+```
+
+3. Run:
+
+```bash
+python ai_chatbot_v3.py
+```
+
+---
+
+# 📂 Project Structure
+
+```text
+AI-Chatbot-V3/
+│
+├── ai_chatbot_v3.py
+├── notes.txt
+├── todo.txt
+└── README.md
+```
+
+---
+
+# 📸 Sample Output
+
+```text
+Name: Ritik
+
+Ritik: hello
+Bot: Hello!
+
+Ritik: joke
+Bot: Why do programmers prefer dark mode? Because light attracts bugs!
+
+Ritik: password
+Length: 12
+Bot: aB9@xP2!LmQ#
+
+Ritik: dice
+Bot: 5
+```
+
+---
+
+# 📚 Learning Concepts
+
+- Python Basics
+- Functions
+- Loops
+- Conditional Statements
+- File Handling
+- Random Module
+- Datetime Module
+- String Module
+- Time Module
+- User Input Handling
+- Command Line Interface (CLI)
+
+---
+
+# 🚀 Version
+
+**Version:** 3.0
+
+---
+
+# 🔄 Future Improvements
+
+- Chat History
+- Quiz Game
+- Weather API
+- Translator
+- Dictionary
+- Wikipedia Search
+- Better AI Responses
+- GUI Version (Tkinter)
+
+---
+
+# 👨‍💻 Developer
+
+**Ritik Kumar**
+
+GitHub:
+https://github.com/devilritik8084-sudo
+
+---
+
+⭐ If you like this project, don't forget to star the repository!
+
+Thank you for visiting this project. ❤️

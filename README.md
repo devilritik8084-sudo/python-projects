@@ -441,3 +441,126 @@ https://github.com/devilritik8084-sudo/python-projects
 ## ⭐ If you like this project
 
 Please give this repository a ⭐ on GitHub.
+
+
+# 🤖 AI Chatbot V1
+
+A simple command-line AI Chatbot built using Python. This chatbot can greet users, tell jokes, show the current date and time, and perform basic calculator operations.
+
+---
+
+## 📌 Features
+
+- 👋 Greeting System
+- 😊 Responds to basic conversations
+- ⏰ Current Time
+- 📅 Current Date
+- 😂 Random Jokes
+- 🧮 Built-in Calculator
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+- 📖 Help Menu
+- 👋 Exit Command
+
+---
+
+## 🛠 Technologies Used
+
+- Python 3
+- datetime module
+- random module
+
+---
+
+## 💻 Commands
+
+- hello
+- hi
+- how are you
+- your name
+- who made you
+- time
+- date
+- joke
+- calculator
+- help
+- exit
+
+---
+
+## ▶️ How to Run
+
+1. Install Python 3.
+2. Save the file as `ai_chatbot_v1.py`
+3. Open Terminal or Pydroid 3.
+4. Run:
+
+```bash
+python ai_chatbot_v1.py
+```
+
+---
+
+## 📸 Sample
+
+```
+Enter your name: Ritik
+
+Hello Ritik! 😊
+
+Ritik: hello
+Bot: Hello! How are you? 😊
+
+Ritik: time
+Bot: 09:45:12 PM
+
+Ritik: calculator
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+```
+
+---
+
+## 📂 Project Structure
+
+```
+AI Chatbot V1/
+│
+├── ai_chatbot_v1.py
+└── README.md
+```
+
+---
+
+## 👨‍💻 Developer
+
+**Ritik Kumar**
+
+GitHub:
+https://github.com/devilritik8084-sudo
+
+---
+
+## 🚀 Version
+
+**AI Chatbot V1.0**
+
+---
+
+## ⭐ Future Improvements (V2)
+
+- AI-style conversation
+- Password Generator
+- Weather Information
+- Notes Manager
+- Number Guessing Game
+- File Handling
+- Better User Interface
+
+---
+
+### Thank You ❤️

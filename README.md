@@ -564,3 +564,173 @@ https://github.com/devilritik8084-sudo
 ---
 
 ### Thank You ❤️
+
+# 🤖 AI Chatbot V2
+
+A feature-rich command-line AI Chatbot built using Python. This chatbot can answer basic questions, perform calculations, generate passwords, tell jokes, share random facts, and provide useful utilities through simple text commands.
+
+---
+
+# ✨ Features
+
+- 👋 Greeting System
+- 💬 Basic Conversation
+- 🕒 Current Time
+- 📅 Current Date
+- 😂 Random Jokes
+- 📚 Random Facts
+- 🧮 Calculator
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+- 🔐 Random Password Generator
+- 🎲 Roll Dice
+- 🪙 Flip Coin
+- 🐍 Python Information
+- 🤖 Artificial Intelligence Information
+- ℹ️ About Bot
+- 📖 Help Menu
+- 🚪 Exit Command
+
+---
+
+# 🛠 Technologies Used
+
+- Python 3
+- datetime
+- random
+- string
+
+---
+
+# 💻 Commands
+
+```
+hello
+hi
+how are you
+your name
+who made you
+time
+date
+calculator
+joke
+fact
+python
+ai
+roll dice
+flip coin
+password
+about
+help
+exit
+```
+
+---
+
+# ▶️ How to Run
+
+1. Install Python 3.
+2. Save the program as:
+
+```
+ai_chatbot_v2.py
+```
+
+3. Open Terminal or Pydroid 3.
+
+4. Run:
+
+```bash
+python ai_chatbot_v2.py
+```
+
+---
+
+# 📸 Sample Output
+
+```
+Enter your name: Ritik
+
+Hello Ritik! 😊
+
+Ritik: hello
+Bot: Hello! How are you?
+
+Ritik: joke
+Bot: Why do programmers prefer dark mode? Because light attracts bugs!
+
+Ritik: password
+Bot: xK9@Lm2#Qa!
+
+Ritik: roll dice
+Bot: 🎲 5
+
+Ritik: flip coin
+Bot: Heads
+```
+
+---
+
+# 📂 Project Structure
+
+```
+AI Chatbot V2/
+│
+├── ai_chatbot_v2.py
+└── README.md
+```
+
+---
+
+# 🚀 Version
+
+**Version:** 2.0
+
+---
+
+# 👨‍💻 Developer
+
+**Ritik Kumar**
+
+GitHub:
+https://github.com/devilritik8084-sudo
+
+---
+
+# 🎯 Learning Objectives
+
+This project demonstrates:
+
+- Python Basics
+- Conditional Statements
+- Loops
+- Functions
+- Lists
+- Random Module
+- String Module
+- Datetime Module
+- User Input Handling
+- Command-Line Interface (CLI)
+
+---
+
+# 🔄 Future Improvements (V3)
+
+- 📝 Notes Manager
+- ✅ To-Do List
+- 🎮 Quiz Game
+- 🎯 Number Guessing Game
+- ⏱ Stopwatch
+- 📂 File Handling
+- 🌦 Weather API
+- 🌐 Dictionary
+- 📚 Wikipedia Search
+- 🤖 Smarter AI Responses
+
+---
+
+# ⭐ If you like this project, don't forget to star the repository!
+
+Thank you for visiting this project. ❤️

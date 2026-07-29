@@ -1557,3 +1557,90 @@ This project is licensed under the MIT License.
 Thank you for visiting this repository.
 
 Happy Coding! 🚀
+
+# 🔐 Password Manager
+
+A simple Password Manager developed in Python. This application allows users to securely store and manage account credentials in a text file.
+
+## 📌 Features
+
+- Add new account credentials
+- Save username and password
+- View saved passwords
+- Simple command-line interface
+- Lightweight and beginner-friendly
+- File-based storage
+
+## 🛠️ Technologies Used
+
+- Python 3
+- File Handling
+- Functions
+- Loops
+- Conditional Statements
+
+## 📂 Project Structure
+
+```
+password_manager.py
+passwords.txt
+README.md
+```
+
+## ▶️ How to Run
+
+1. Install Python 3.
+2. Download this project.
+3. Open Terminal or Command Prompt.
+4. Run:
+
+```bash
+python password_manager.py
+```
+
+## 📖 Example
+
+```
+===== PASSWORD MANAGER =====
+
+1. Add Password
+2. View Passwords
+3. Exit
+
+Choose: 1
+
+Website: GitHub
+Username: Ritik
+Password: ********
+
+Saved Successfully!
+```
+
+## 🎯 Learning Outcomes
+
+- File Handling
+- Data Storage
+- Functions
+- Python Basics
+- CLI Application Development
+
+## 🚀 Future Improvements
+
+- Password Encryption
+- Master Password Authentication
+- Password Generator
+- Search Password
+- Delete Password
+- Update Password
+- Export Data
+- GUI Version
+
+## 👨‍💻 Developer
+
+**Ritik Kumar**
+
+GitHub:
+https://github.com/devilritik8084-sudo/python-projects
+
+---
+⭐ If you like this project, don't forget to star the repository.

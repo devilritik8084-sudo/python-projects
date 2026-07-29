@@ -666,3 +666,217 @@ This project is licensed under the MIT License.
 
 Happy Coding! 🚀
 
+# 🤖 AI Chatbot V3
+
+An advanced command-line chatbot developed using Python. AI Chatbot V3 extends the functionality of V2 by introducing productivity tools, file handling, and interactive games. This version focuses on making the chatbot more useful for everyday tasks while improving Python programming skills.
+
+---
+
+# 🚀 Features
+
+- 👋 Greeting System
+- 💬 Basic Conversation
+- 🐍 Python Information
+- 🤖 AI Information
+- 👨‍💻 Developer Information
+- 🕒 Current Time
+- 📅 Current Date
+- 😂 Random Jokes
+- 📚 Random Facts
+- 🧮 Calculator
+- 🔐 Password Generator
+- 🎲 Dice Roll
+- 🪙 Coin Flip
+- 📝 Notes Manager
+  - Add Notes
+  - View Notes
+- ✅ To-Do List
+  - Add Tasks
+  - View Tasks
+- 🎯 Number Guessing Game
+- ⏱ Stopwatch
+- 📖 Help Menu
+- 🚪 Exit Command
+
+---
+
+# 🛠 Technologies Used
+
+- Python 3
+- datetime
+- random
+- string
+- os
+- time
+
+---
+
+# 💻 Available Commands
+
+```text
+hello
+hi
+time
+date
+joke
+fact
+python
+ai
+calculator
+password
+dice
+coin
+note add
+note view
+task add
+task view
+guess
+stopwatch
+help
+exit
+```
+
+---
+
+# ▶️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/devilritik8084-sudo/python-projects.git
+```
+
+Go to the project folder:
+
+```bash
+cd AI-Chatbot-V3
+```
+
+Run the chatbot:
+
+```bash
+python ai_chatbot_v3.py
+```
+
+---
+
+# 📂 Project Structure
+
+```text
+AI-Chatbot-V3/
+│
+├── ai_chatbot_v3.py
+├── notes.txt
+├── todo.txt
+├── README.md
+└── LICENSE
+```
+
+---
+
+# 📸 Sample Output
+
+```text
+Name: Ritik
+
+Ritik: note add
+Enter note: Complete Python project
+Saved.
+
+Ritik: task add
+Task: Upload project to GitHub
+Added.
+
+Ritik: joke
+Bot: Why do programmers prefer dark mode?
+Because light attracts bugs!
+
+Ritik: guess
+Guess a number (1-10): 7
+Correct!
+```
+
+---
+
+# 📚 Python Concepts Used
+
+- Variables
+- Lists
+- Functions
+- Loops
+- Conditional Statements
+- File Handling
+- Random Module
+- Datetime Module
+- String Module
+- OS Module
+- Time Module
+
+---
+
+# 🎯 Learning Objectives
+
+This project demonstrates:
+
+- Python File Handling
+- Productivity Tool Development
+- CLI Application Design
+- Password Generation
+- Number Guessing Logic
+- Stopwatch Implementation
+- Notes & Task Management
+- Problem Solving
+
+---
+
+# 🚀 Future Improvements
+
+- Voice Assistant
+- Speech Recognition
+- Text-to-Speech
+- Weather API
+- Wikipedia Search
+- Chat History
+- GUI Version (Tkinter)
+- Machine Learning Integration
+
+---
+
+# 📈 Version History
+
+| Version | Description |
+|---------|-------------|
+| V1 | Basic chatbot |
+| V2 | Added AI info, password generator, dice, coin flip |
+| **V3** | Added Notes Manager, Task Manager, Guess Number Game, Stopwatch, and File Handling |
+
+---
+
+# 🔗 Repository
+
+GitHub Repository:
+https://github.com/devilritik8084-sudo/python-projects
+
+---
+
+# 👨‍💻 Developer
+
+**Ritik Kumar**
+
+---
+
+## ⭐ Version
+
+**Version 3.0**
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+⭐ If you found this project useful, please consider giving it a star on GitHub.
+
+Happy Coding! 🚀

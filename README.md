@@ -880,3 +880,203 @@ This project is licensed under the MIT License.
 ⭐ If you found this project useful, please consider giving it a star on GitHub.
 
 Happy Coding! 🚀
+
+# 🩺 AI Disease Prediction System
+
+An Artificial Intelligence and Machine Learning project developed using Python. This application predicts possible diseases based on symptoms entered by the user using a Decision Tree Machine Learning model.
+
+The project demonstrates practical implementation of Machine Learning concepts, data preprocessing, model training, and prediction.
+
+---
+
+# 🚀 Features
+
+- 🩺 Disease Prediction
+- 🤖 Machine Learning Model
+- 📊 Decision Tree Classifier
+- 📂 CSV Dataset Support
+- 🔍 Symptom-Based Prediction
+- 📜 Prediction History
+- 💻 Command-Line Interface
+- ⚡ Fast Prediction
+- 📈 Easy to Expand with New Diseases
+
+---
+
+# 🛠 Technologies Used
+
+- Python 3
+- Pandas
+- NumPy
+- Scikit-learn
+- CSV Dataset
+
+---
+
+# 📚 Machine Learning Concepts
+
+- Data Preprocessing
+- Feature Selection
+- Model Training
+- Decision Tree Classification
+- Prediction
+- Accuracy Evaluation
+
+---
+
+# 💻 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/devilritik8084-sudo/python-projects.git
+```
+
+Install required libraries
+
+```bash
+pip install pandas numpy scikit-learn
+```
+
+Run the project
+
+```bash
+python ai_disease_prediction.py
+```
+
+---
+
+# 📂 Project Structure
+
+```text
+AI-Disease-Prediction-System/
+│
+├── ai_disease_prediction.py
+├── dataset.csv
+├── prediction_history.txt
+├── README.md
+└── LICENSE
+```
+
+---
+
+# 📸 Sample Output
+
+```text
+======== AI Disease Prediction System ========
+
+Enter Symptoms
+
+Fever : Yes
+Cough : Yes
+Headache : No
+
+Predicted Disease
+
+➡ Flu
+
+Confidence : High
+```
+
+---
+
+# 🎯 Project Workflow
+
+```text
+User Input
+
+↓
+
+Read Symptoms
+
+↓
+
+Load Dataset
+
+↓
+
+Decision Tree Model
+
+↓
+
+Disease Prediction
+
+↓
+
+Display Result
+```
+
+---
+
+# 📈 Future Improvements
+
+- GUI Version (Tkinter)
+- Multiple Machine Learning Models
+- Confidence Score
+- Medical Recommendation
+- Doctor Suggestion
+- PDF Report
+- Database Integration
+- Voice Input
+- Web Version
+- Mobile Application
+
+---
+
+# 📚 Learning Outcomes
+
+This project helped me understand
+
+- Machine Learning Basics
+- Decision Tree Algorithm
+- Data Analysis
+- Dataset Handling
+- Model Training
+- Prediction System Design
+- Python Programming
+- Problem Solving
+
+---
+
+# 🌍 Real World Applications
+
+- Smart Healthcare
+- Hospital Management
+- Medical Assistance
+- Health Awareness
+- Educational AI Projects
+
+---
+
+# 🔗 Repository
+
+GitHub Repositoru
+https://github.com/devilritik8084-sudo/python-projects
+
+---
+
+# 👨‍💻 Developer
+
+**Ritik Kumar**
+
+Python Developer • AI Enthusiast • GKS 2027 Aspirant 🇮🇳➡️🇰🇷
+
+---
+
+## ⭐ Version
+
+**Version 1.0**
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+⭐ If you found this project useful, please consider giving it a star on GitHub.
+
+Thank you for visiting this repository.
+
+Happy Coding! 🚀

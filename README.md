@@ -888,10 +888,6 @@ GitHub Repository
 
 https://github.com/devilritik8084-sudo/python-projects
 
-GitHub Profile
-
-https://github.com/devilritik8084-sudo
-
 ---
 
 # 👨‍💻 Developer
@@ -1644,3 +1640,481 @@ https://github.com/devilritik8084-sudo/python-projects
 
 ---
 ⭐ If you like this project, don't forget to star the repository.
+
+# 🔐 Password Manager Version 2
+
+Password Manager Version 2 is an improved version of the original Password Manager built using Python. It provides a better user experience with password generation, improved menu options, and safer file handling.
+
+---
+
+## 📌 Features
+
+- 🔑 Add new passwords
+- 👀 View saved passwords
+- 🎲 Generate strong random passwords
+- 💾 Save credentials to a file
+- 📂 Read stored credentials
+- 🖥️ Simple Command Line Interface (CLI)
+- ⚡ Fast and lightweight
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3
+- File Handling
+- Random Module
+- String Module
+- Functions
+- Loops
+- Conditional Statements
+
+---
+
+## 📂 Project Structure
+
+```
+Password-Manager version 2.py
+passwords.txt
+README.md
+```
+
+---
+
+## ▶️ How to Run
+
+1. Install Python 3.
+2. Download this repository.
+3. Open Terminal or Command Prompt.
+4. Run:
+
+```bash
+python "Password-Manager version 2.py"
+```
+
+---
+
+## 📖 Example
+
+```
+===== PASSWORD MANAGER V2 =====
+
+1. Add Password
+2. View Passwords
+3. Generate Password
+4. Exit
+
+Choose: 3
+
+Generated Password:
+
+T@8vP#3mQ9!z
+```
+
+---
+
+## 🎯 Learning Outcomes
+
+- Python Programming
+- File Handling
+- Random Password Generation
+- String Operations
+- Function Design
+- CLI Application Development
+
+---
+
+## 🚀 Future Improvements
+
+- 🔒 Master Password Login
+- 🔐 Password Encryption
+- 🔍 Search Saved Passwords
+- ✏️ Edit Credentials
+- 🗑️ Delete Credentials
+- 📤 Export Password Database
+- 🖥️ GUI Version (Tkinter)
+- ☁️ Cloud Backup Support
+
+---
+
+## 👨‍💻 Developer
+
+**Ritik Kumar**
+
+GitHub Repository:
+
+https://github.com/devilritik8084-sudo/python-projects
+
+---
+
+## 📌 Version
+
+**Current Version:** Password Manager V2
+
+This version improves the original Password Manager by adding password generation, better organization, and improved usability while remaining beginner-friendly.
+
+---
+
+⭐ If you like this project, don't forget to star the repository!
+
+# 🎓 Student Management System
+
+A simple and efficient Student Management System developed using Python. This project helps manage student records through a command-line interface (CLI). Users can add, view, search, update, and delete student information while learning core Python concepts such as file handling and data management.
+
+---
+
+# 🚀 Features
+
+- ➕ Add Student Record
+- 📋 View All Students
+- 🔍 Search Student by Roll Number
+- ✏️ Update Student Information
+- ❌ Delete Student Record
+- 💾 Save Data to File
+- 📂 Load Existing Student Data
+- 📊 Simple Command-Line Interface (CLI)
+
+---
+
+# 🛠 Technologies Used
+
+- Python 3
+- File Handling
+- Functions
+- Lists
+- Dictionaries
+- Loops
+- Conditional Statements
+
+---
+
+# 📚 Python Concepts Used
+
+- Variables
+- User Input
+- Functions
+- Loops
+- File Handling
+- Lists
+- Dictionaries
+- CRUD Operations (Create, Read, Update, Delete)
+
+---
+
+# 💻 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/devilritik8084-sudo/python-projects.git
+```
+
+Run the project
+
+```bash
+python student_management.py
+```
+
+---
+
+# 📂 Project Structure
+
+```
+Student-Management-System/
+│
+├── student_management.py
+├── students.txt
+├── README.md
+└── LICENSE
+```
+
+---
+
+# 📖 Sample Output
+
+```
+========== STUDENT MANAGEMENT SYSTEM ==========
+
+1. Add Student
+2. View Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Exit
+
+Choose an option: 1
+
+Enter Name: Ritik Kumar
+Enter Roll Number: 101
+Enter Class: 12
+Enter Marks: 91
+
+✅ Student Record Saved Successfully!
+```
+
+---
+
+# 🌍 Workflow
+
+```
+User
+
+↓
+
+Choose Menu Option
+
+↓
+
+Perform Operation
+
+↓
+
+Read/Write Student Data
+
+↓
+
+Display Result
+```
+
+---
+
+# 🎯 Learning Outcomes
+
+- Python Programming
+- File Handling
+- Data Management
+- CRUD Operations
+- Command-Line Interface Development
+- Problem Solving
+
+---
+
+# 🚀 Future Improvements
+
+- 🖥 GUI Version (Tkinter)
+- 📊 Student Report Card
+- 📈 Marks Analysis
+- 🏆 Grade Calculator
+- 🔍 Advanced Search
+- 📄 Export Student Data to PDF
+- 🗄 SQLite Database Integration
+- ☁ Cloud Storage Support
+
+---
+
+# 🌍 Real World Applications
+
+- School Record Management
+- Coaching Institutes
+- College Student Database
+- Academic Administration
+- Educational Projects
+
+---
+
+# 👨‍💻 Developer
+
+**Ritik Kumar**
+
+Python Developer • AI Enthusiast • GKS 2027 Aspirant 🇮🇳➡️🇰🇷
+
+---
+
+## 🔗 Repository
+
+GitHub Repository
+
+https://github.com/devilritik8084-sudo/python-projects
+
+---
+
+## ⭐ Version
+
+**Version 1.0**
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+⭐ If you found this project useful, please consider giving it a ⭐ on GitHub.
+
+Happy Coding! 🚀
+
+# 🧮 Calculator Application
+
+A simple and user-friendly Calculator Application developed using Python. This command-line calculator performs basic arithmetic operations and is designed to help beginners understand Python programming concepts such as functions, conditional statements, and user input handling.
+
+---
+
+# 🚀 Features
+
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- ❌ Division by Zero Handling
+- 💻 Command-Line Interface (CLI)
+- ⚡ Fast and Lightweight
+
+---
+
+# 🛠 Technologies Used
+
+- Python 3
+
+---
+
+# 📚 Python Concepts Used
+
+- Variables
+- User Input
+- Conditional Statements
+- Functions
+- Arithmetic Operators
+- Error Handling
+
+---
+
+# 💻 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/devilritik8084-sudo/python-projects.git
+```
+
+Run the project
+
+```bash
+python calculator.py
+```
+
+---
+
+# 📂 Project Structure
+
+```text
+Calculator-Application/
+│
+├── calculator.py
+├── README.md
+└── LICENSE
+```
+
+---
+
+# 📖 Sample Output
+
+```text
+========== CALCULATOR ==========
+
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exit
+
+Choose an option: 1
+
+Enter First Number: 25
+Enter Second Number: 15
+
+Result: 40
+```
+
+---
+
+# 🌍 Workflow
+
+```text
+User
+
+↓
+
+Choose Operation
+
+↓
+
+Enter Numbers
+
+↓
+
+Perform Calculation
+
+↓
+
+Display Result
+```
+
+---
+
+# 🎯 Learning Outcomes
+
+This project demonstrates:
+
+- Python Programming Basics
+- Arithmetic Operations
+- User Input Handling
+- Conditional Logic
+- Command-Line Application Development
+- Problem Solving
+
+---
+
+# 🚀 Future Improvements
+
+- 🧮 Scientific Calculator
+- 📐 Square Root Calculation
+- 📊 Percentage Calculator
+- 💱 Unit Converter
+- 💰 Currency Converter
+- 📜 Calculation History
+- 🖥 GUI Version (Tkinter)
+- 🌙 Dark Mode Interface
+
+---
+
+# 🌍 Real World Applications
+
+- Educational Projects
+- Basic Mathematics
+- Python Learning
+- Beginner Programming Practice
+
+---
+
+# 👨‍💻 Developer
+
+**Ritik Kumar**
+
+Python Developer • AI Enthusiast • GKS 2027 Aspirant 🇮🇳➡️🇰🇷
+
+---
+
+## 🔗 Repository
+
+GitHub Repository
+
+https://github.com/devilritik8084-sudo/python-projects
+
+---
+
+## ⭐ Version
+
+**Version 1.0**
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+⭐ If you found this project useful, please consider giving it a ⭐ on GitHub.
+
+Happy Coding! 🚀

@@ -1080,3 +1080,438 @@ This project is licensed under the MIT License.
 Thank you for visiting this repository.
 
 Happy Coding! 🚀
+
+# 🌦 Weather Forecast Application
+
+A Python-based weather forecasting application that provides real-time weather information using the OpenWeather API. The application allows users to search for any city and view current weather conditions in a simple and user-friendly interface.
+
+---
+
+# 🚀 Features
+
+- 🌍 Search Weather by City
+- 🌡 Current Temperature
+- ☁ Weather Condition
+- 💧 Humidity
+- 🌬 Wind Speed
+- 🌅 Sunrise Time
+- 🌇 Sunset Time
+- 📊 Real-Time Weather Data
+- ⚡ Fast API Response
+- 💻 Command-Line Interface
+
+---
+
+# 🛠 Technologies Used
+
+- Python 3
+- OpenWeather API
+- Requests Library
+- JSON
+- Datetime
+
+---
+
+# 📚 Python Concepts Used
+
+- API Integration
+- HTTP Requests
+- JSON Parsing
+- Error Handling
+- User Input
+- Functions
+- Conditional Statements
+
+---
+
+# 💻 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/devilritik8084-sudo/python-projects.git
+```
+
+Go to project folder
+
+```bash
+cd Weather-Forecast-Application
+```
+
+Install required library
+
+```bash
+pip install requests
+```
+
+Run the project
+
+```bash
+python weather_forecast.py
+```
+
+---
+
+# 🔑 API Setup
+
+1. Create a free account on OpenWeather.
+2. Generate your API Key.
+3. Replace the API key in the Python file.
+
+```python
+API_KEY = "YOUR_API_KEY"
+```
+
+---
+
+# 📂 Project Structure
+
+```text
+Weather-Forecast-Application/
+│
+├── weather_forecast.py
+├── README.md
+└── LICENSE
+```
+
+---
+
+# 📸 Sample Output
+
+```text
+======== Weather Forecast ========
+
+Enter City: Seoul
+
+Temperature : 28°C
+
+Weather : Clear Sky
+
+Humidity : 64%
+
+Wind Speed : 12 km/h
+
+Sunrise : 05:18 AM
+
+Sunset : 07:46 PM
+```
+
+---
+
+# 🌐 Workflow
+
+```text
+User
+
+↓
+
+Enter City Name
+
+↓
+
+Send Request to OpenWeather API
+
+↓
+
+Receive JSON Data
+
+↓
+
+Extract Weather Information
+
+↓
+
+Display Results
+```
+
+---
+
+# 📈 Future Improvements
+
+- 🖥 GUI Version (Tkinter)
+- 📅 7-Day Weather Forecast
+- 🌧 Rain Probability
+- 📍 Auto Location Detection
+- 🌎 Multiple Language Support
+- 📄 Weather Report Export (PDF)
+- 📊 Weather Graphs
+- 🤖 AI Weather Assistant
+
+---
+
+# 📚 Learning Outcomes
+
+This project helped me understand
+
+- REST APIs
+- JSON Data Handling
+- HTTP Requests
+- Python Programming
+- Error Handling
+- API Authentication
+
+---
+
+# 🌍 Real World Applications
+
+- Weather Monitoring
+- Travel Planning
+- Agriculture
+- Education
+- Learning API Integration
+
+---
+
+# 🔗 Repository
+
+GitHub Repository
+
+https://github.com/devilritik8084-sudo/python-projects
+
+---
+
+# 👨‍💻 Developer
+
+**Ritik Kumar**
+
+Python Developer • AI Enthusiast • GKS 2027 Aspirant 🇮🇳➡️🇰🇷
+
+---
+
+## ⭐ Version
+
+**Version 1.0**
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+⭐ If you found this project useful, please give it a ⭐ on GitHub.
+
+Thank you for visiting this repository.
+
+Happy Coding! 🚀
+
+# 🌦 Weather Forecast GUI
+
+A modern desktop weather application developed using **Python**, **Tkinter**, and the **OpenWeather API**. This application provides real-time weather information through a simple and user-friendly graphical interface.
+
+---
+
+# 🚀 Features
+
+- 🌍 Search weather by city name
+- 🖥 User-friendly GUI (Tkinter)
+- 🌡 Current temperature
+- ☁ Weather condition
+- 💧 Humidity
+- 🌬 Wind speed
+- 🌅 Sunrise time
+- 🌇 Sunset time
+- 📍 Real-time weather updates
+- ⚡ Fast API response
+- ❌ Invalid city error handling
+
+---
+
+# 🛠 Technologies Used
+
+- Python 3
+- Tkinter
+- OpenWeather API
+- Requests
+- JSON
+- Datetime
+
+---
+
+# 📚 Python Concepts Used
+
+- GUI Programming
+- API Integration
+- JSON Parsing
+- Functions
+- Error Handling
+- Event Handling
+- User Input
+- Labels & Buttons
+
+---
+
+# 💻 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/devilritik8084-sudo/python-projects.git
+```
+
+Move to the project folder
+
+```bash
+cd Weather-Forecast-GUI
+```
+
+Install required library
+
+```bash
+pip install requests
+```
+
+Run the project
+
+```bash
+python weather_gui.py
+```
+
+---
+
+# 🔑 API Setup
+
+1. Create a free account on OpenWeather.
+2. Generate your API key.
+3. Replace the API key in the Python file.
+
+```python
+API_KEY = "YOUR_API_KEY"
+```
+
+---
+
+# 📂 Project Structure
+
+```text
+Weather-Forecast-GUI/
+│
+├── weather_gui.py
+├── README.md
+├── LICENSE
+└── screenshots/
+```
+
+---
+
+# 🖼 Application Preview
+
+```text
++---------------------------------------+
+|        Weather Forecast GUI           |
++---------------------------------------+
+| Enter City: [ Seoul           ]       |
+|                                       |
+| [ Get Weather ]                       |
+|                                       |
+| Temperature : 28°C                    |
+| Weather     : Clear Sky               |
+| Humidity    : 64%                     |
+| Wind Speed  : 12 km/h                 |
+| Sunrise     : 05:18 AM                |
+| Sunset      : 07:46 PM                |
++---------------------------------------+
+```
+
+---
+
+# 🌐 Workflow
+
+```text
+User
+
+↓
+
+Enter City Name
+
+↓
+
+Click "Get Weather"
+
+↓
+
+OpenWeather API
+
+↓
+
+Receive JSON Data
+
+↓
+
+Display Weather Information
+```
+
+---
+
+# 📈 Future Improvements
+
+- 🌦 7-Day Weather Forecast
+- 📊 Weather Charts
+- 🌍 Auto Location Detection
+- 🌙 Dark Mode
+- 🌡 Temperature Unit Switch (°C / °F)
+- ⭐ Favorite Cities
+- 🔔 Weather Alerts
+- 🗺 Interactive Weather Map
+- 🌐 Multi-language Support
+
+---
+
+# 📚 Learning Outcomes
+
+This project demonstrates
+
+- GUI Development using Tkinter
+- API Integration
+- Real-Time Data Fetching
+- JSON Handling
+- Python Programming
+- Error Handling
+- User Interface Design
+
+---
+
+# 🌍 Real World Applications
+
+- Weather Monitoring
+- Travel Planning
+- Agriculture
+- Educational Projects
+- API Learning
+
+---
+
+# 🔗 Repository
+
+GitHub Repository
+
+https://github.com/devilritik8084-sudo/python-projects
+
+---
+
+# 👨‍💻 Developer
+
+**Ritik Kumar**
+
+Python Developer • AI Enthusiast • GKS 2027 Aspirant 🇮🇳➡️🇰🇷
+
+---
+
+## ⭐ Version
+
+**Version 1.0 (GUI Edition)**
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+⭐ If you found this project useful, please consider giving it a ⭐ on GitHub.
+
+Thank you for visiting this repository.
+
+Happy Coding! 🚀

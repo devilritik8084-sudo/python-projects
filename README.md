@@ -666,37 +666,45 @@ This project is licensed under the MIT License.
 
 Happy Coding! 🚀
 
-# 🤖 AI Chatbot V3
+# 🤖 AI Chatbot V3 Pro
 
-An advanced command-line chatbot developed using Python. AI Chatbot V3 extends the functionality of V2 by introducing productivity tools, file handling, and interactive games. This version focuses on making the chatbot more useful for everyday tasks while improving Python programming skills.
+A professional command-line AI chatbot built with Python. AI Chatbot V3 Pro is an upgraded version of V3 with improved command recognition, cleaner code structure, better user interaction, and productivity features. It demonstrates practical Python programming, file handling, and modular application development.
 
 ---
 
 # 🚀 Features
 
-- 👋 Greeting System
+## 💬 Chat Features
+
+- 👋 Smart Greeting System
 - 💬 Basic Conversation
-- 🐍 Python Information
 - 🤖 AI Information
+- 🐍 Python Information
 - 👨‍💻 Developer Information
-- 🕒 Current Time
-- 📅 Current Date
-- 😂 Random Jokes
-- 📚 Random Facts
+- 📖 Help Menu
+- 🚪 Exit Command
+
+---
+
+## ⚡ Productivity Tools
+
 - 🧮 Calculator
 - 🔐 Password Generator
-- 🎲 Dice Roll
-- 🪙 Coin Flip
 - 📝 Notes Manager
   - Add Notes
   - View Notes
-- ✅ To-Do List
+- ✅ Task Manager
   - Add Tasks
   - View Tasks
-- 🎯 Number Guessing Game
-- ⏱ Stopwatch
-- 📖 Help Menu
-- 🚪 Exit Command
+
+---
+
+## 🎉 Fun Features
+
+- 😂 Random Jokes
+- 📚 Random Facts
+- 🕒 Current Time
+- 📅 Current Date
 
 ---
 
@@ -707,7 +715,7 @@ An advanced command-line chatbot developed using Python. AI Chatbot V3 extends t
 - random
 - string
 - os
-- time
+- File Handling
 
 ---
 
@@ -716,22 +724,40 @@ An advanced command-line chatbot developed using Python. AI Chatbot V3 extends t
 ```text
 hello
 hi
+hey
+kya ho
+kaise ho
+how are you
+
+your name
+who are you
+who made you
+developer
+
+python
+python info
+what is python
+
+ai
+ai info
+what is ai
+
 time
 date
+
 joke
 fact
-python
-ai
+
 calculator
+
 password
-dice
-coin
+
 note add
 note view
+
 task add
 task view
-guess
-stopwatch
+
 help
 exit
 ```
@@ -740,22 +766,22 @@ exit
 
 # ▶️ Installation
 
-Clone the repository:
+Clone the repository
 
 ```bash
 git clone https://github.com/devilritik8084-sudo/python-projects.git
 ```
 
-Go to the project folder:
+Go to project folder
 
 ```bash
-cd AI-Chatbot-V3
+cd AI-Chatbot-V3-Pro
 ```
 
-Run the chatbot:
+Run
 
 ```bash
-python ai_chatbot_v3.py
+python ai_chatbot_v3_pro.py
 ```
 
 ---
@@ -763,9 +789,9 @@ python ai_chatbot_v3.py
 # 📂 Project Structure
 
 ```text
-AI-Chatbot-V3/
+AI-Chatbot-V3-Pro/
 │
-├── ai_chatbot_v3.py
+├── ai_chatbot_v3_pro.py
 ├── notes.txt
 ├── todo.txt
 ├── README.md
@@ -777,23 +803,22 @@ AI-Chatbot-V3/
 # 📸 Sample Output
 
 ```text
-Name: Ritik
+Enter your name: Ritik
+
+Ritik: hello
+Bot: Hello! 😊
+
+Ritik: python info
+Bot: Python is a beginner-friendly programming language.
 
 Ritik: note add
-Enter note: Complete Python project
+Note: Complete GitHub README
 Saved.
 
-Ritik: task add
-Task: Upload project to GitHub
-Added.
+Ritik: task view
 
-Ritik: joke
-Bot: Why do programmers prefer dark mode?
-Because light attracts bugs!
-
-Ritik: guess
-Guess a number (1-10): 7
-Correct!
+1. Complete Python Project
+2. Upload to GitHub
 ```
 
 ---
@@ -806,11 +831,11 @@ Correct!
 - Loops
 - Conditional Statements
 - File Handling
+- String Manipulation
 - Random Module
 - Datetime Module
-- String Module
-- OS Module
-- Time Module
+- User Input
+- Modular Programming
 
 ---
 
@@ -818,27 +843,31 @@ Correct!
 
 This project demonstrates:
 
+- Command-based Chatbot Development
 - Python File Handling
-- Productivity Tool Development
-- CLI Application Design
 - Password Generation
-- Number Guessing Logic
-- Stopwatch Implementation
-- Notes & Task Management
+- Productivity Tool Development
+- Modular Programming
+- CLI Application Design
 - Problem Solving
 
 ---
 
-# 🚀 Future Improvements
+# 🚀 Planned Features
 
-- Voice Assistant
-- Speech Recognition
-- Text-to-Speech
-- Weather API
-- Wikipedia Search
-- Chat History
-- GUI Version (Tkinter)
-- Machine Learning Integration
+- 🎲 Dice Roll
+- 🪙 Coin Flip
+- 🎯 Guess Number Game
+- ⏱ Stopwatch
+- ⏰ Countdown Timer
+- 📊 Quiz System
+- 🗑 Delete Notes & Tasks
+- 💾 Chat History
+- 🌦 Weather API
+- 🌐 Wikipedia Search
+- 🔊 Voice Assistant
+- 🧠 Machine Learning Integration
+- 🖥 GUI Version (Tkinter)
 
 ---
 
@@ -847,15 +876,21 @@ This project demonstrates:
 | Version | Description |
 |---------|-------------|
 | V1 | Basic chatbot |
-| V2 | Added AI info, password generator, dice, coin flip |
-| **V3** | Added Notes Manager, Task Manager, Guess Number Game, Stopwatch, and File Handling |
+| V2 | Added AI info, password generator, dice & coin features |
+| V3 | Added Notes, Tasks, Guess Game, Stopwatch |
+| **V3 Pro** | Improved architecture, smarter commands, cleaner code, productivity tools |
 
 ---
 
 # 🔗 Repository
 
-GitHub Repository:
+GitHub Repository
+
 https://github.com/devilritik8084-sudo/python-projects
+
+GitHub Profile
+
+https://github.com/devilritik8084-sudo
 
 ---
 
@@ -863,11 +898,13 @@ https://github.com/devilritik8084-sudo/python-projects
 
 **Ritik Kumar**
 
+Python Developer • AI Enthusiast • GKS 2027 Aspirant 🇮🇳➡️🇰🇷
+
 ---
 
 ## ⭐ Version
 
-**Version 3.0**
+**Version 3.0 Pro**
 
 ---
 
@@ -877,9 +914,14 @@ This project is licensed under the MIT License.
 
 ---
 
-⭐ If you found this project useful, please consider giving it a star on GitHub.
+## 🌟 Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
+
+Thank you for visiting this repository!
 
 Happy Coding! 🚀
+
 
 # 🩺 AI Disease Prediction System
 

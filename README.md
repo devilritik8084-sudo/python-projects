@@ -262,3 +262,192 @@ If you found this project useful, consider giving it a ⭐ on GitHub.
 
 Happy Coding! 🚀
 
+# 🤖 AI Chatbot V2
+
+An enhanced command-line chatbot developed using Python. AI Chatbot V2 builds upon Version 1 by introducing additional utility features, improved user interaction, and a better command-based interface.
+
+---
+
+# 🚀 Features
+
+- 👋 Greeting System
+- 💬 Basic Conversation
+- 🤖 AI Information
+- 🐍 Python Information
+- 👨‍💻 Developer Information
+- 🕒 Current Time
+- 📅 Current Date
+- 😂 Random Jokes
+- 📚 Random Facts
+- 🧮 Calculator
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+- 🔐 Password Generator
+- 🎲 Roll Dice
+- 🪙 Flip Coin
+- 📖 Help Menu
+- 🚪 Exit Command
+
+---
+
+# 🛠 Technologies Used
+
+- Python 3
+- datetime
+- random
+- string
+
+---
+
+# 💻 Available Commands
+
+```text
+hello
+hi
+how are you
+your name
+who made you
+about
+python
+ai
+time
+date
+joke
+fact
+calculator
+password
+roll dice
+flip coin
+help
+exit
+```
+
+---
+
+# ▶️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/devilritik8084-sudo/python-projects.git
+```
+
+Move to the project folder:
+
+```bash
+cd AI-Chatbot-V2
+```
+
+Run the chatbot:
+
+```bash
+python ai_chatbot_v2.py
+```
+
+---
+
+# 📂 Project Structure
+
+```text
+AI-Chatbot-V2/
+│
+├── ai_chatbot_v2.py
+├── README.md
+└── LICENSE
+```
+
+---
+
+# 📸 Sample Output
+
+```text
+Enter your name: Ritik
+
+Hello Ritik! 😊
+
+Ritik: fact
+Bot: Python was created by Guido van Rossum.
+
+Ritik: password
+Bot: A7#kdP9@LmQ2
+
+Ritik: roll dice
+Bot: 🎲 5
+
+Ritik: flip coin
+Bot: Heads
+```
+
+---
+
+# 📚 Python Concepts Used
+
+- Variables
+- Lists
+- Loops
+- Conditional Statements
+- Functions
+- User Input
+- Random Module
+- Datetime Module
+- String Module
+- Password Generation
+
+---
+
+# 🎯 Learning Objectives
+
+This project demonstrates:
+
+- Command-based chatbot design
+- Randomized responses
+- Password generation
+- Interactive calculator
+- Python module usage
+- CLI application development
+
+---
+
+# 🚀 Future Improvements
+
+- Notes Manager
+- To-Do List
+- Guess Number Game
+- Stopwatch
+- Timer
+- Chat History
+- Voice Commands
+- AI Smart Responses
+
+---
+
+# 📈 Version History
+
+| Version | Description |
+|---------|-------------|
+| V1 | Basic chatbot with calculator and jokes |
+| **V2** | Added password generator, facts, AI information, dice, coin flip, and improved interaction |
+
+---
+
+# 👨‍💻 Developer
+
+**Ritik Kumar**
+
+GitHub:
+https://github.com/devilritik8084-sudo/python-projects
+
+---
+
+## ⭐ Version
+
+**Version 2.0**
+
+---
+
+If you enjoyed this project, consider giving it a ⭐ on GitHub.
+
+Happy Coding! 🚀
+

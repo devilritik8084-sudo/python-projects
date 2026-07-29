@@ -75,6 +75,7 @@ A Python-based Student Management System developed to manage student records eff
 ```bash
 python student_management_v2.py
 
+
 # 🩺 AI Disease Prediction System
 
 A Python-based AI application that predicts possible diseases based on user symptoms using Machine Learning.

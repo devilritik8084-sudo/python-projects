@@ -114,3 +114,151 @@ https://github.com/devilritik8084-sudo/python-projects
 
 If you like my projects, don't forget to ⭐ star the repositories.
 
+# 🤖 AI Chatbot V1
+
+A beginner-friendly command-line chatbot developed using Python. This project demonstrates the fundamentals of Python programming, user interaction, conditional statements, loops, functions, and basic modules.
+
+---
+
+# 📌 Features
+
+- 👋 Greeting System
+- 😊 Basic Conversation
+- 🕒 Current Time
+- 📅 Current Date
+- 😂 Random Jokes
+- 🧮 Calculator
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+- ℹ️ Bot Information
+- 📖 Help Menu
+- 🚪 Exit Command
+
+---
+
+# 🛠 Technologies Used
+
+- Python 3
+- datetime
+- random
+
+---
+
+# 💻 Available Commands
+
+```text
+hello
+hi
+how are you
+your name
+who made you
+time
+date
+calculator
+joke
+help
+exit
+```
+
+---
+
+# ▶️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/devilritik8084-sudo/python-projects.git
+```
+
+Run the program:
+
+```bash
+python ai_chatbot_v1.py
+```
+
+---
+
+# 📂 Project Structure
+
+```text
+AI-Chatbot-V1/
+│
+├── ai_chatbot_v1.py
+├── README.md
+└── LICENSE
+```
+
+---
+
+# 📸 Sample Output
+
+```text
+Enter your name: Ritik
+
+Hello Ritik! 😊
+
+Ritik: hello
+Bot: Hello! How are you?
+
+Ritik: joke
+Bot: Why do programmers prefer dark mode?
+Because light attracts bugs!
+
+Ritik: calculator
+
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+```
+
+---
+
+# 📚 Concepts Used
+
+- Variables
+- Input & Output
+- Conditional Statements
+- Loops
+- Lists
+- Functions
+- Python Modules
+- Error-Free CLI Design
+
+---
+
+# 🚀 Future Improvements
+
+- Password Generator
+- Random Facts
+- AI Information
+- Python Information
+- Dice Roll
+- Coin Flip
+- Notes Manager
+- Task Manager
+- AI Responses
+
+---
+
+# 👨‍💻 Developer
+
+**Ritik Kumar**
+
+GitHub:https://github.com/devilritik8084-sudo/python-projects
+
+
+---
+
+## ⭐ Version
+
+**Version 1.0**
+
+---
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+Happy Coding! 🚀
+
